@@ -3,7 +3,8 @@ In-game rules:
 1. Do not do anything harmful in chat - This is just common sense. It includes spam, racism, advertising etc.
 2. Be respectful towards everybody - This includes all players and staff members.
 3. Do not use any disallowed modification - Visit https://github.com/Neptunity/Allowed-Client-Mods or our discord (https://discord.neptunity.land) for more info.
-4. Have fun!
+4. Teaming in any solo mode is bannable.
+5. Have fun!
 
 Punishment info:
 
